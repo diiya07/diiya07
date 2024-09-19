@@ -1,8 +1,8 @@
-# Hi, I'm diyaah! 👋
+<h1 align="center">Hi 👋, I'm  diyaah! </h1>
+<h3 align="center">Pursuing my Master’s in **Computer Science (IT)**</h3>
 
-## 💻 **Passionate about Development & Coding**  
-## 🎓 Pursuing my Master’s in **Computer Science (IT)**  
-## 🚀 Excited to apply my skills in **Hybrid App Development**  
-## 🌟 Enhancing my expertise in **iOS**  
-## ✨ Looking forward to contributing to exciting **open-source projects**  
-## 📩 You can reach me at: 
+### About me:
+- 👩‍💻 I’m currently working on improving my programming skills.
+- 🌱 I’m always looking to learn something new.
+- 📫 You can reach me at: 
+- 📍 A'bad, India
