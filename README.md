@@ -5,4 +5,3 @@
 - 👩‍💻 I’m currently working on improving my programming skills.
 - 🌱 I’m always looking to learn something new.
 - 📫 You can reach me at: 
-- 📍 A'bad, India
