@@ -7,7 +7,7 @@
 - 🌱 I’m always looking to learn something new.
 - 📫 You can reach me at:
 
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0;">
   <img width="390" src="https://streak-stats.demolab.com/?user=diiya07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
