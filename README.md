@@ -1,4 +1,4 @@
-![Hello](docs/hello.svg)
+
 <h1 align="center">Hi 👋, I'm diyaah!</h1>
 <h3 align="center">Pursuing my Master’s in Computer Science (IT)</h3>
 
