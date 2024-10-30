@@ -16,4 +16,4 @@
 </div>
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/diiya07/count.svg)
