@@ -3,9 +3,12 @@
 <h3 align="center">Pursuing my Master’s in Computer Science (IT)</h3>
 
 ### About me:
-- 👩‍💻 I’m currently working on improving my programming skills.
-- 🌱 I’m always looking to learn something new.
-- 📫 You can reach me at:
+- 🚀 Aspiring Developer | Code Enthusiast
+- 🔍 Constantly exploring new technologies and sharpening my skills.
+- 💡 Passionate about solving problems and building impactful solutions.
+- 🌱 Always eager to learn and grow in the tech world.
+
+- 📫 Let’s connect: [Your contact info]
 
 <div align="center" style="margin: 20px 0;">
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diiya07&hide=HTML,Ruby,Kotlin,CMake,Shell,Swift,Objective-C,C++,C&langs_count=30&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true&order=2" alt="top langs" />
